@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skills; updated as I learn and build.",
+  "axes": [
+    { "label": "C", "value": 65 },
+    { "label": "Python", "value": 60 },
+    { "label": "HTML", "value": 55 },
+    { "label": "Problem Solving", "value": 50 },
+    { "label": "DSA", "value": 45 },
+    { "label": "Git / GitHub", "value": 45 }
+  ]
+}
