@@ -14,7 +14,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/anurag-mishr4">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Anurag+Mishra;Aspiring+Software+Engineer+%7C+CSE+Student;Building+%26+Learning+with+Code;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Anurag+Mishra;Aspiring+Software+Engineer;Building+%26+Learning+with+Code;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
